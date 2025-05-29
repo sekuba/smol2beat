@@ -1,6 +1,0 @@
-{
-  "spec": ["src/**/*.test.ts", "scripts/**/*.test.ts", "rewrite/**/*.test.ts"],
-  "require": "esbuild-register",
-  "watchExtensions": "ts",
-  "extension": "ts"
-}
